@@ -8,7 +8,7 @@
 
 什么是 REDUNDEAD ?
 
-> **REDUNDEAD** 从文件系统损坏或已擦除/格式化的媒体中恢复 R3D 文件。
+> [**REDUNDEAD**](https://www.red.com/download/redundead-beta) 从文件系统损坏或已擦除/格式化的媒体中恢复 R3D 文件。
 
 什么是 REDUNDEAD-Helper？
 
@@ -20,7 +20,6 @@
 
 按照以下简单步骤操作：
 
-1. 下载并安装 [REDUNDEAD](https://www.red.com/download/redundead-beta)；
-2. 下载 [REDUNDEAD-Helper](https://github.com/haor7/REDUNDEAD-Helper/releases)；
-3. 按照界面上的提示操作；
-4. 完成恢复。
+1. 下载 [REDUNDEAD-Helper](https://github.com/haor7/REDUNDEAD-Helper/releases)；
+2. 按照界面上的提示操作；
+3. 完成恢复。
